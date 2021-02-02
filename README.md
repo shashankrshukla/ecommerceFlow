@@ -1,5 +1,5 @@
 # ecommerceFlow
-LIST OF OPTIMIZATIONS REWUIRED
+LIST OF OPTIMIZATIONS REQUIRED
 
 1) POM
 2) Prices are still in string, need to convert them in numbers(parseInt)
